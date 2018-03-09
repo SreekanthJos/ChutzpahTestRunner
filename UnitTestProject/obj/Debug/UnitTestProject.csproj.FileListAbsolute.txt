@@ -1,0 +1,13 @@
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Javascript\ChutzpahTestRunner\UnitTestProject\obj\Debug\UnitTestProject.pdb

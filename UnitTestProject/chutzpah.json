@@ -1,0 +1,15 @@
+﻿{
+  //"RootReferencePathMode": "SettingsFileDirectory",
+  "Framework": "jasmine",
+  "References": [
+    {
+      "Path": "../WebSite/js",
+      "Includes": [ "**.js" ]
+    }
+
+  ],
+  "Tests": [
+    { "Path": "../UnitTestProject/tests" }
+  ]
+}
+
